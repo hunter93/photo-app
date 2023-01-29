@@ -38,9 +38,6 @@ class RegistrationsController < ApplicationController
     end
   end
 
-  def new
-  end
-
   protected
 
   def configure_permitted_parameters
